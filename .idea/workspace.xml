@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0374abdd-d764-4765-b4d4-86d46bd2a056" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mock/mock_links_inp.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock/mock_links_inp.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock/mock_links_inp.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock/mock_links_inp.qpj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock/mock_links_inp.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock/mock_links_inp.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IsoAlgorithmTests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zones_calculator.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="162635180">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="py" value="931" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Python" value="931" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="isorange" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/isorange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/tests/database_tests.py" />
+        <option value="$PROJECT_DIR$/tests/isolines_algoritm_tests.py" />
+        <option value="$PROJECT_DIR$/tests/linkscontainer.py" />
+        <option value="$PROJECT_DIR$/linkscontainer.py" />
+        <option value="$PROJECT_DIR$/tests/dupa.py" />
+        <option value="$PROJECT_DIR$/tests/isolines_algorithm_tests.py" />
+        <option value="$PROJECT_DIR$/tests/test_zc.py" />
+        <option value="$PROJECT_DIR$/zones_calculator.py" />
+        <option value="$PROJECT_DIR$/tests/IsoAlgorithmTests.py" />
+        <option value="$PROJECT_DIR$/isorange.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="isorange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isorange" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isorange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isorange" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dev\Python\isorange" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.isorange">
+    <configuration name="isorange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isorange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isorange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for IsoAlgorithmTests.TestIso" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="isorange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;IsoAlgorithmTests.TestIso&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for IsoAlgorithmTests.TestLoad" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="isorange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;IsoAlgorithmTests.TestLoad&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for IsoAlgorithmTests.TestLoad.test_load" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="isorange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;IsoAlgorithmTests.TestLoad.test_load&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in IsoAlgorithmTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="isorange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/IsoAlgorithmTests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in IsoAlgorithmTests.py" />
+      <item itemvalue="Python tests.Unittests for IsoAlgorithmTests.TestIso" />
+      <item itemvalue="Python tests.Unittests for IsoAlgorithmTests.TestLoad" />
+      <item itemvalue="Python tests.Unittests for IsoAlgorithmTests.TestLoad.test_load" />
+      <item itemvalue="Python.isorange" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.isorange" />
+        <item itemvalue="Python tests.Unittests for IsoAlgorithmTests.TestLoad.test_load" />
+        <item itemvalue="Python tests.Unittests for IsoAlgorithmTests.TestLoad" />
+        <item itemvalue="Python tests.Unittests in IsoAlgorithmTests.py" />
+        <item itemvalue="Python tests.Unittests for IsoAlgorithmTests.TestIso" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0374abdd-d764-4765-b4d4-86d46bd2a056" name="Default Changelist" comment="" />
+      <created>1557762339468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557762339468</updated>
+    </task>
+    <task id="LOCAL-00001" summary="start project">
+      <created>1557778416484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557778416484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_IsoAlgorithmTests_TestLoad_test_load - 2019.05.13 at 21h 03m 28s.xml">
+      <configuration name="Unittests for IsoAlgorithmTests.TestLoad.test_load" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_IsoAlgorithmTests_py - 2019.05.13 at 21h 03m 54s.xml">
+      <configuration name="Unittests in IsoAlgorithmTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_IsoAlgorithmTests_py - 2019.05.13 at 21h 04m 19s.xml">
+      <configuration name="Unittests in IsoAlgorithmTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_IsoAlgorithmTests_TestLoad_test_load - 2019.05.13 at 21h 04m 33s.xml">
+      <configuration name="Unittests for IsoAlgorithmTests.TestLoad.test_load" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_IsoAlgorithmTests_TestLoad_test_load - 2019.05.13 at 21h 07m 11s.xml">
+      <configuration name="Unittests for IsoAlgorithmTests.TestLoad.test_load" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_IsoAlgorithmTests_TestLoad_test_load - 2019.05.13 at 21h 07m 21s.xml">
+      <configuration name="Unittests for IsoAlgorithmTests.TestLoad.test_load" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_IsoAlgorithmTests_py - 2019.05.13 at 22h 16m 03s.xml">
+      <configuration name="Unittests in IsoAlgorithmTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_IsoAlgorithmTests_TestLoad_test_load - 2019.05.13 at 22h 16m 15s.xml">
+      <configuration name="Unittests for IsoAlgorithmTests.TestLoad.test_load" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_IsoAlgorithmTests_TestLoad - 2019.05.13 at 22h 45m 06s.xml">
+      <configuration name="Unittests for IsoAlgorithmTests.TestLoad" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_IsoAlgorithmTests_TestLoad_test_load - 2019.05.13 at 22h 45m 21s.xml">
+      <configuration name="Unittests for IsoAlgorithmTests.TestLoad.test_load" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49725273" visible="true" weight="0.2602118" />
+      <window_info id="Structure" order="1" sideWeight="0.50274724" side_tool="true" weight="0.20171149" />
+      <window_info id="Favorites" order="2" sideWeight="0.50274724" side_tool="true" weight="0.20171149" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" weight="0.33295965" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987775" weight="0.55409837" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012225" side_tool="true" weight="0.59192824" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start project" />
+    <option name="LAST_COMMIT_MESSAGE" value="start project" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/isolines_algoritm_tests.py" />
+    <entry file="file://$PROJECT_DIR$/tests/database_tests.py" />
+    <entry file="file://$PROJECT_DIR$/linkscontainer.py" />
+    <entry file="file://$PROJECT_DIR$/tests/dupa.py" />
+    <entry file="file://$PROJECT_DIR$/tests/isolines_algorithm_tests.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_zc.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/gisetl/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="442" column="8" selection-start-line="442" selection-start-column="8" selection-end-line="442" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zones_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/IsoAlgorithmTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isorange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

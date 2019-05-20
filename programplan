@@ -1,0 +1,6 @@
+1. load lonks from shp file
+2. explode links to simple geometry
+3. extract nodes
+4. calc distance to each node
+6. build zones from nodes
+7. draw zones
